@@ -13,7 +13,7 @@ Python gets wirtten some code, we use some translation service called an interpr
 1_6. Exercise: Type Convertion<br>
 1_7. Developer Fundamentals, comments<br>
 1_8. Exercise: Password Check<br>
-1_9. List
+1_9. List, Matrix, List Methods
 
 
  
