@@ -4,8 +4,8 @@
 Python gets wirtten some code, we use some translation service called an interpreter(it will translate our code line by line) to run our code and then, our shell will spit out some instruction for our machines.
 
 <br>
-<h1>Basics</h1> <br>
-1. Resume
+<h1>Basics I</h1> <br>
+1. Resume<br>
 1_1. Math Function, int, float, Operator Precedence, bin(), int(string, base)<br>
 1_2. Variables, expression vs statements, augmented assignment operator <br>
 1_3. String, str(), Type convertion, Escape Sequence, Formatted Strings, String indexes, Immutability<br>
