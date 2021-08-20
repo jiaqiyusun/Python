@@ -5,6 +5,7 @@ Python gets wirtten some code, we use some translation service called an interpr
 
 <br>
 <h1>Basics</h1> <br>
+1. Resume
 1_1. Math Function, int, float, Operator Precedence, bin(), int(string, base)<br>
 1_2. Variables, expression vs statements, augmented assignment operator <br>
 1_3. String, str(), Type convertion, Escape Sequence, Formatted Strings, String indexes, Immutability<br>
@@ -13,7 +14,10 @@ Python gets wirtten some code, we use some translation service called an interpr
 1_6. Exercise: Type Convertion<br>
 1_7. Developer Fundamentals, comments<br>
 1_8. Exercise: Password Check<br>
-1_9. List, Matrix, List Methods
-
+1_9. List, Matrix, List Methods, list unpacking
+1_10. None
+1_11. Dictionary
+1_12. Tuple
+1_13. Set
 
  

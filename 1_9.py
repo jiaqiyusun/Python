@@ -60,3 +60,45 @@ print(new_list)
 #basket.clear() python3
 del basket [:]
 print(basket)
+
+letters = ['a','b','c','d','e','d']
+print(letters.index('d',0,4)) #make small list between 0 and 4, if does not exist, return erro
+
+print('d' in letters)# is d in list letters
+
+print('i' in 'hi my name is jiaqi')
+
+print(letters.count('d'))#count number d exist
+
+letters.sort()#sort list 
+print(letters)
+print(sorted(letters)) # does not mod
+
+#new_letters = letters.copy()#python 3
+new_letters = letters[::]
+
+new_letters.reverse()# switvhing all the indexes into opposite
+
+
+#Command list 
+
+print(len(new_letters))
+print(new_letters[::-1])#reverse
+print(new_letters)
+
+print(list(range(100)))#range(start, stop) generate quickly
+
+
+#sentence = '!'
+new_sentence = ' '.join(['hi','my','name'])
+print(new_sentence)
+
+#list unpacking
+
+a, b, c, *other, d = [1, 2, 3, 4, 5, 6, 7, 8, 9]
+
+print(a)
+print(b)
+print(c)
+print(other)
+print(d)
