@@ -14,10 +14,10 @@ Python gets wirtten some code, we use some translation service called an interpr
 1_6. Exercise: Type Convertion<br>
 1_7. Developer Fundamentals, comments<br>
 1_8. Exercise: Password Check<br>
-1_9. List, Matrix, List Methods, list unpacking
-1_10. None
-1_11. Dictionary
-1_12. Tuple
-1_13. Set
+1_9. List, Matrix, List Methods, list unpacking<br>
+1_10. None<br>
+1_11. Dictionary<br>
+1_12. Tuple<br>
+1_13. Set<br>
 
- 
+<h1>Basics II</h1> <br> 
