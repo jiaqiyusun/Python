@@ -5,10 +5,10 @@ Python gets wirtten some code, we use some translation service called an interpr
 
 
 <h2>2. What is a good code?</h2><br>
-1. use space make code clean
-2. readability, is easy to understand, name does not confuse, comments
-3. predictability 
-4. DRY, do not repeat again gain
+1. use space make code clean<br>
+2. readability, is easy to understand, name does not confuse, comments <br>
+3. predictability <br>
+4. DRY, do not repeat again gain<br>
 
 <br>
 <h1>Basics I</h1> <br>
