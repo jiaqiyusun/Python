@@ -1,7 +1,14 @@
 # Python 2.7
 
-<b>1. How does Python work?<b>
-Python gets wirtten some code, we use some translation service called an interpreter(it will translate our code line by line) to run our code and then, our shell will spit out some instruction for our machines.
+<h2>1. How does Python work?</h2><br>
+Python gets wirtten some code, we use some translation service called an interpreter(it will translate our code line by line) to run our code and then, our shell will spit out some instruction for our machines.<br>
+
+
+<h2>2. What is a good code?</h2><br>
+1. use space make code clean
+2. readability, is easy to understand, name does not confuse, comments
+3. predictability 
+4. DRY, do not repeat again gain
 
 <br>
 <h1>Basics I</h1> <br>
@@ -21,3 +28,10 @@ Python gets wirtten some code, we use some translation service called an interpr
 1_13. Set<br>
 
 <h1>Basics II</h1> <br> 
+2_1. Condition Logic, if elif else and ,Indentation python, Truthy and Falsy, Ternary operator<br>
+2_2. Short Circuiting<br>
+2_3. Loops, Iterable, range, enumerate, while, break, continue, pass<br>
+2_4. GUI exercise<br>
+2_5. Check for duplicates in list exercise<br>
+2_6. Function, Arguments vs Parameters, Default<br>
+2_7. return<br>
