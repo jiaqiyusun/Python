@@ -42,4 +42,5 @@ Nonlocal can reduce use location in memory, once we termine our function that wi
 2_8. Methods vs Functions<br>
 2_9. Docstrings, clean code, *args vs **kwarg, walrus operator, scope, global keyword, nonlocal
 
-<h1>Developer Environment</h1> <br> 
+<h1>Developer Environment</h1><br> 
+myfirstnotebook.ipynb. first try with jupyter notebook, it is so cool

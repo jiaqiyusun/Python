@@ -104,20 +104,27 @@ print(parent())
 
 
 total = 0
+
+
 def count(total):
-    total +=1
+    total += 1
     return total
+
 
 print(count(count(total)))
 
-#nonlocal is not global but outside my local
+# nonlocal is not global but outside my local
+
+
 def outer():
     x = 'local'
+
     def inner():
-        nonlocal x# can change outside variable modified
-        x='nonlocal'
+        nonlocal x  # can change outside variable modified
+        x = 'nonlocal'
         print("inner:", x)
     inner()
     print("outer;", x)
+
 
 outer()
