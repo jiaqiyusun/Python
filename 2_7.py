@@ -16,3 +16,5 @@ def s(n1,n2):
 total = s(1,2)
 print(total)
 
+
+

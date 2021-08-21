@@ -1,4 +1,4 @@
-# Python 2.7
+# Python 2.7 Note
 
 <h2>1. How does Python work?</h2><br>
 Python gets wirtten some code, we use some translation service called an interpreter(it will translate our code line by line) to run our code and then, our shell will spit out some instruction for our machines.<br>
@@ -9,6 +9,10 @@ Python gets wirtten some code, we use some translation service called an interpr
 2. readability, is easy to understand, name does not confuse, comments <br>
 3. predictability <br>
 4. DRY, do not repeat again gain<br>
+
+<h2>3. What do we need scope ?</h2><br>
+why do we put everthing in global? Our machine does not have infinite memory power.<br>
+Nonlocal can reduce use location in memory, once we termine our function that will destroy all variable in this function, soon we can not call variable in this function. It is nice feature in Python.<br>
 
 <br>
 <h1>Basics I</h1> <br>
@@ -35,3 +39,5 @@ Python gets wirtten some code, we use some translation service called an interpr
 2_5. Check for duplicates in list exercise<br>
 2_6. Function, Arguments vs Parameters, Default<br>
 2_7. return<br>
+2_8. Methods vs Functions<br>
+2_9. Docstrings, clean code, *args vs **kwarg, walrus operator, scope, global keyword, nonlocal
