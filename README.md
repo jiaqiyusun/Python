@@ -43,4 +43,17 @@ Nonlocal can reduce use location in memory, once we termine our function that wi
 2_9. Docstrings, clean code, *args vs **kwarg, walrus operator, scope, global keyword, nonlocal
 
 <h1>Developer Environment</h1><br> 
-myfirstnotebook.ipynb. first try with jupyter notebook, it is so cool
+myfirstnotebook.ipynb. first try with jupyter notebook, it is so cool<br>
+
+<h1>Advanced: Object Oriented Programming</h1><br> 
+3_1. What is OOP?<br>
+3_2. Create our own Object! Atrributes vs Methods, @classmethod vs @statemethod<br>
+3_3. Encapsulation , Abstraction, private and public variable<br>
+3_4. Inheritance Polymorphism <br>
+3_5. Exercise<br>
+3_6. super(), introspection<br>
+3_7. Exercise<br>
+3_8. Multiple Inheritance<br>
+3_9. MRO<br>
+
+<h1>Advanced: Functional Programming</h1><br> 
