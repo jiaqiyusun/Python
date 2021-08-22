@@ -14,6 +14,9 @@ Python gets wirtten some code, we use some translation service called an interpr
 why do we put everthing in global? Our machine does not have infinite memory power.<br>
 Nonlocal can reduce use location in memory, once we termine our function that will destroy all variable in this function, soon we can not call variable in this function. It is nice feature in Python.<br>
 
+<h2>3. What is the Functional Programming?</h2><br>
+Functional programming is all about separation of concerns, It´s all about packaging our code into separate chunks so that everything´s well organized in each part od our code. PURE FUNCTIONS<br>
+
 Contents
 --------
 **Python Types:** **[`Numbers`](#numbers)__,__[`Strings`](#strings)__,__[`Boolean`](#boolean)__,__[`Lists`](#lists)__,__[`Dictionaries`](#dictionaries)__,__ [`Tuples`](#tuples)__,__[`Sets`](#sets)__,__[`None`](#none)**  
@@ -67,3 +70,7 @@ myfirstnotebook.ipynb. first try with jupyter notebook, it is so cool<br>
 3_9. MRO<br>
 
 <h1>Advanced: Functional Programming</h1><br> 
+4_1. Pure Function(everytime modify same way), map, filter, zip, and reduce<br>
+4_2. Exercise<br>
+4_3. Comprehenshion<br>
+4_4. Exercise<br>
